@@ -1,7 +1,8 @@
 # Simple bonus calculator
-
+- ex.01
 This Python program calculates the bonus amount based on the user's input of their name, monthly salary, and bonus percentage received.
-
+- ex.01-error-check
+Same program as the previous one, however, it seeks to understand the potential errors that could arise and their corresponding handling procedures
 ## How to Run
 
 1. Make sure you have Python installed on your system. You can download it from [here](https://www.python.org/downloads/).
